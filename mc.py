@@ -610,7 +610,7 @@
 #     print("The doctor consult a maximum of 20 patient a day")
 #     exit()
 # for i in range(a):
-#     age=int(input("enter the age of the patient:"))
+#     age=int(input("Enter the age of the patient:"))
 #     if age<=0 or age > 120:
 #         print("invalid age")
 #         exit()
