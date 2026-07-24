@@ -1,9 +1,8 @@
-# """mylist=["apple","banana","orange"]
+# mylist=["apple","banana","orange"]
 # list2=["mc","mc2",]
 # mylist.extend(list2)
-# print
-# #del mylist
-# #print(mylist)"""
+# del mylist
+# print(mylist)
 
 
 
@@ -25,7 +24,7 @@
 # student=["john","mike","jane","emma"]
 # mark=[85,90,78,92]
 # for i in student:
-#  for j in mark:  
+#  for j in mark:   
 #         print(i,j)
 
 # list=int(input("enter the  number of elements:"))
@@ -305,13 +304,13 @@
 # mc.pop("orange")
 # print(mc)
 
-# def add(a,b):
-#     return (a*b,)
+def add(a,b):
+    return (a*b,)
 
 
-# c=int(input("enter the 1st number"))
-# d=int(input("enter the 2nd number"))
-# print (add(c,d))
+c=int(input("enter the 1st number"))
+d=int(input("enter the 2nd number"))
+print (add(c,d))
 
 
 # def odd_even(n):
@@ -622,15 +621,15 @@
 #         earn+=300
 # print("total earning=",earn)
 
-user =int(input("Enter the number:"))
-a=0
-b=1
-print("The fibanocci numbers is:")
-for i in range(user):
-    print(a,end=" ")
-    c=a+b
-    a=b
-    b=c
+# user =int(input("Enter the number:"))
+# a=0
+# b=1
+# print("The fibanocci numbers is:")
+# for i in range(user):
+#     print(a,end=" ")
+#     c=a+b
+#     a=b
+#     b=c
 
 
 
